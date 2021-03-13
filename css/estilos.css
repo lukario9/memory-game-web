@@ -1,0 +1,56 @@
+.contenedor {
+  	display: flex;
+  	flex-direction: column;
+	background-color: white;
+	border:1px solid;
+	width: 700px;
+	height: 120px; 
+	margin: auto;
+	border-radius: 50xp;
+	align-items: center;
+	justify-content: center;
+	/*padding: 25px;*/
+}
+
+.contenedor_table {
+	color: black;
+	background-color: white;
+	border:1px solid;
+	width: 700px;
+	height: 600px; 
+	margin: auto;
+	margin-top: 10px;
+}
+
+.contenedor_boton {
+	margin-top: 10px;
+    display: flex;
+	justify-content: center;
+
+}
+
+body {
+	background-color: #00e1f5;
+}
+
+.contenedor button {
+	width: 200px;
+	height: 50px;
+	font-size: 40px;
+	margin-top: 10px;
+}
+
+.contenedor label {
+	font-size: 20px;
+}
+
+.contenendor-selector{
+	/*border: 1px solid;*/
+	width: 80%;
+}
+
+
+.contenedor_boton button {
+	font-size: 30px;
+	width: 300px;
+}
